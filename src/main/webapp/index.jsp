@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!!! This page is to test basic complete CICD pipelines and modified CONTENT using crontab </h2>
+<h2>Hello World!!! This page is test of web deployment using ANSIBLE PLAYBOOK </h2>
 </body>
 </html>
